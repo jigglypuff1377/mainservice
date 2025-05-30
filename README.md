@@ -1,5 +1,7 @@
-1. docker pull islamsabirov631/mainservice:latest
-2. docker run -p 1239:1239 islamsabirov631/mainservice:latest
+1. docker pull islamsabirov631/taskservice
+2. docker run -p 1239:1239 islamsabirov631/taskservice
+
+3. приложение будет доступно по адресу: http://localhost:1239/
 
 
 
